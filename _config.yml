@@ -13,9 +13,9 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Research
-    - name: Teaching
-    - name: CV
+    - name: Blog
+    - name: Whatever
+ 
 
     
 
