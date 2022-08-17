@@ -13,9 +13,10 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: CV
     - name: Research
     - name: Teaching
+    - name: CV
+
     
 
 footer:
